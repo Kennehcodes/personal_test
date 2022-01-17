@@ -6,3 +6,5 @@ reference to issue 2
 brancha wants to talk about it too.
 
 I added this line using Visual studio and will submit it via terminal request. Wish me luck. 
+
+I will add another line and make a comment not using commit -m, as a comparison.
