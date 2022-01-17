@@ -2,5 +2,5 @@ Test
 Another
 line
 test
-reference to issue 1
+reference to issue 2
 brancha wants to talk about it too.
